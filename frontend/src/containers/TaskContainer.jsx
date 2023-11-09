@@ -1,5 +1,5 @@
 import React from 'react'
-import Task from '../components/task'
+import Task from '../components/Task.jsx'
 
 const TaskContainer = ({ section }) => {
   return (
