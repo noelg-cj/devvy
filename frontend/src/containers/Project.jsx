@@ -1,5 +1,5 @@
 import React from 'react'
-import ProjectMenu from './ProjectMenu';
+import ProjectMenu from './ProjectMenu.jsx';
 import TaskContainer from './TaskContainer.jsx';
 
 const Project = (props) => {
