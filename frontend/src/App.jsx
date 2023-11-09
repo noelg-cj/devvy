@@ -1,5 +1,5 @@
 import { useState } from 'react'
-import Task from './components/task'
+import Task from './components/Task.jsx'
 import Project from './containers/Project'
 import Menu from './containers/Menu'
 
