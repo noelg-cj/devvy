@@ -1,6 +1,6 @@
 import React from 'react'
 import ProjectMenu from './ProjectMenu';
-import TaskContainer from './taskContainer';
+import TaskContainer from './TaskContainer';
 
 const Project = (props) => {
   const { title } = props;
