@@ -28,8 +28,6 @@ import {
       const fetchedUser = await getUserById(userId);
       console.log('Fetched User:', fetchedUser);
   
-      // Add more test cases for other functions...
-  
     } catch (error) {
       console.error('Error:', error.message);
     }
